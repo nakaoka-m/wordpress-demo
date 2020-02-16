@@ -7,7 +7,7 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<img src="IMG_5554.HEIC" alt="トップページ画像" >
+<img src="blog.jpg" alt="トップページ画像">
 
   <header class="page-header">
     <h1>ブログテーマ <small>~ブログサブタイトル~</h1>
