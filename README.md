@@ -8,7 +8,7 @@
 </head>
 <body>
   <a href="">
-<img src="images/https://cdn.pixabay.com/photo/2017/05/30/03/58/blog-2355684__340.jpg" alt="トップページ画像" ></a>
+<img src="" alt="トップページ画像" ></a>
 
   <header class="page-header">
     <h1>ブログテーマ <small>~ブログサブタイトル~</h1>
