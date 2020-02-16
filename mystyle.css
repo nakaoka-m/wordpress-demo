@@ -1,0 +1,20 @@
+@charset "UTF-8";
+body{  font-size: 16px; }
+h1{ font-size:28px; font-weight: bold;}
+h2{ font-size:20px;}
+img{ max-width:100%;  }
+#content{
+  background:url(images/pattern-diamond.png);
+  padding-top:20px;
+  padding-bottom:20px;
+}
+#content-wrap{
+  background-color: white;
+  box-shadow: 2px 2px 2px rgba(0,0,0,.3);
+}
+#sidebar{ text-align: center;}
+footer{ background-color: #222; }
+footer p{
+  padding:15px 0;
+  color: white;
+}
